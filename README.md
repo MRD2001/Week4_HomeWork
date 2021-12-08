@@ -7,4 +7,8 @@ Homework Repo for Week3-4
  - Read and wrnagle data
  - Determine the sucess of each portfolio
  - Choose and evaluate a customer portfolio
+
+## The Path statement is not working well for me. So, I used the command os.chdir() , to reach to the resources directory and the files inside it
+
+
  
